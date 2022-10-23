@@ -2,10 +2,10 @@
 
 ## Menu
 
-  1. Potions
-  2. Chips
-  3. Code Block
-
+   1. [Potions](#Potions)
+   2. [Chips](#Chips)
+   3. [Code Block](#code-block)
+   
    *Mysterious*
 
    **Oily**
