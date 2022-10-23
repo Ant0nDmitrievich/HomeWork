@@ -12,7 +12,9 @@
 
    ---
 ### Potions
-
+   + Potion
+   + Potion
+   + Potion
 ### Chips
 
 ### Code Block
