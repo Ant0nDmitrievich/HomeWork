@@ -30,3 +30,16 @@
  [Ссылка на сайт почты](http://mail.ru/)
 
 ### Code Block
+```
+  while(index<size) do 
+    if(numbers[index]>max 
+      then max=numbers[index])  
+    index=index+1
+  print(max)
+```
+
+---
+
+  >HOMINEM AMPLIUS OCULIS, QUAM AURIBUS CREDUNT
+  >
+  >*Seneca*
