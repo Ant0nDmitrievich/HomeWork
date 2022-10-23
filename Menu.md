@@ -17,7 +17,12 @@
      * potion element 1
      * potion element 2
  * Potion 2
+    + potion element 1
+    + potion element 2
  * Potion 3
+    + potion element 1
+    + potion element 2
+    + potion element 3
 
 ---
 
