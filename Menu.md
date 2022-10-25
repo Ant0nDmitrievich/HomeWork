@@ -2,15 +2,17 @@
 
 ## Menu
 
-  1. Potions
-  2. Chips
-  3. Code Block
+  1. [Potions](#Potions)
+  2. [Chips](#Chips)
+  3. [Code Block](#Code-Block)
+  
 
    *Mysterious*
 
    **Oily**
 
    ---
+
 ### Potions
 
 * Potion 1
@@ -34,7 +36,8 @@
  ---
  [Ссылка на сайт почты](http://mail.ru/)
 
-### Code Block
+### Code_Block
+
 ```
   while(index<size) do 
     if(numbers[index]>max 
