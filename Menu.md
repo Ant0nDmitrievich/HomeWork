@@ -7,11 +7,11 @@
   3. [Code Block](#Code-Block)
   
 
-   *Mysterious*
+ *Mysterious*
 
-   **Oily**
+ **Oily**
 
-   ---
+---
 
 ### Potions
 
@@ -30,21 +30,27 @@
 
 ### Chips
 
+
  1. Potato
  2. Chips
  3. French fries
  ---
+
  [Ссылка на сайт почты](http://mail.ru/)
 
-### Code_Block
+
+### Code Block
+
 
 ```
-  while(index<size) do 
-    if(numbers[index]>max 
-      then max=numbers[index])  
+ while(index<size) do
+    
+    if(numbers[index]>max then
+        max=numbers[index])
     index=index+1
-  print(max)
+print(max)
 ```
+
 
 ---
 
